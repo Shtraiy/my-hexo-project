@@ -1,0 +1,2 @@
+# my-hexo-project
+blog
